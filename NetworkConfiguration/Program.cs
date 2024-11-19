@@ -76,7 +76,7 @@ namespace NetworkConfiguration
                 IPInterfaceProperties ipProperties = networkInterface.GetIPProperties();
                 Console.WriteLine(); //засчет этого отступа сетевые интерфесы не смешаються в кашу 
                 Console.WriteLine(networkInterface.Description); // Выводим все сетевые интерфейсы
-                Console.WriteLine(String.Empty.PadLeft(networkInterface.Description.Length, '=')); // Красивое оформление списка интерфейсов, все данные ниже будут выводиться под нужными им интерфейсами !!!Нужно запомнить!!!
+                Console.WriteLine(String.Empty.PadLeft(networkInterface.Description.Length, '=')); // Красивое оформление списка интерфейсов!!!Нужно запомнить!!!
                 Console.WriteLine("  Тип сетевого интерфейса ............... : {0}", networkInterface.NetworkInterfaceType);
                 Console.WriteLine("  MAC-адрес интерфейса................... : {0}", networkInterface.GetPhysicalAddress());
                 Console.WriteLine("  Opertional status...................... : {0}", networkInterface.OperationalStatus);
