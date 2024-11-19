@@ -1,0 +1,14 @@
+C:\Users\Попов\source\repos\NetworkConfiguration\NetworkConfiguration\bin\Debug\net8.0\NetworkConfiguration.exe
+C:\Users\Попов\source\repos\NetworkConfiguration\NetworkConfiguration\bin\Debug\net8.0\NetworkConfiguration.deps.json
+C:\Users\Попов\source\repos\NetworkConfiguration\NetworkConfiguration\bin\Debug\net8.0\NetworkConfiguration.runtimeconfig.json
+C:\Users\Попов\source\repos\NetworkConfiguration\NetworkConfiguration\bin\Debug\net8.0\NetworkConfiguration.dll
+C:\Users\Попов\source\repos\NetworkConfiguration\NetworkConfiguration\bin\Debug\net8.0\NetworkConfiguration.pdb
+C:\Users\Попов\source\repos\NetworkConfiguration\NetworkConfiguration\obj\Debug\net8.0\NetworkConfiguration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Попов\source\repos\NetworkConfiguration\NetworkConfiguration\obj\Debug\net8.0\NetworkConfiguration.AssemblyInfoInputs.cache
+C:\Users\Попов\source\repos\NetworkConfiguration\NetworkConfiguration\obj\Debug\net8.0\NetworkConfiguration.AssemblyInfo.cs
+C:\Users\Попов\source\repos\NetworkConfiguration\NetworkConfiguration\obj\Debug\net8.0\NetworkConfiguration.csproj.CoreCompileInputs.cache
+C:\Users\Попов\source\repos\NetworkConfiguration\NetworkConfiguration\obj\Debug\net8.0\NetworkConfiguration.dll
+C:\Users\Попов\source\repos\NetworkConfiguration\NetworkConfiguration\obj\Debug\net8.0\refint\NetworkConfiguration.dll
+C:\Users\Попов\source\repos\NetworkConfiguration\NetworkConfiguration\obj\Debug\net8.0\NetworkConfiguration.pdb
+C:\Users\Попов\source\repos\NetworkConfiguration\NetworkConfiguration\obj\Debug\net8.0\NetworkConfiguration.genruntimeconfig.cache
+C:\Users\Попов\source\repos\NetworkConfiguration\NetworkConfiguration\obj\Debug\net8.0\ref\NetworkConfiguration.dll
